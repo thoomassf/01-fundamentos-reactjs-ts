@@ -1,8 +1,8 @@
 <div align="center">
-  <img src=".github/ignite-logo.svg" alt="Podcastr logo">
+  <img src=".github/ignite-logo.svg" alt="DT Modey logo">
 </div>
 
-<br />
+## 🚀[Preview](https://03-dt-money-three.vercel.app)
 
 <img src=".github/thumbnail.png" alt="thumbnail" />
 
@@ -18,7 +18,10 @@
 
 <div align="center">
   <br />
-  <img src=".github/tech-logos.png" alt="Technologies used">
+  <img src=".github/typescript-logo.svg" width="50px" alt="Typescript">
+  <img src=".github/react-logo.svg" width="50px" alt="React JS">
+  <br />
+  <br />
 </div>
 
 This project was developed with the following technologies:
@@ -30,24 +33,25 @@ This project was developed with the following technologies:
 
 ### Requirements
 
-- You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
+- You need to install both [Node.js](https://nodejs.org/en/download/)
 
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/fariasthomas/01-fundamentos-react-ts.git && cd 01-fundamentos-react-ts
+$ git clone https://github.com/thoomassf/01-fundamentos-reactjs-ts.git && cd 01-fundamentos-reactjs-ts
+$ gh repo clone thoomassf/01-fundamentos-reactjs-ts && cd 01-fundamentos-reactjs-ts
 ```
 
 **Follow the steps below**
 
 ```bash
 # Install dependencies
-$ yarn install our npm install
+$ npm install
 # Start the project
-$ yarn dev or npm run dev
+$ npm run dev
 ```
 
-The app will be available for access on your browser at `http://localhost:3000`
+The app will be available for access in your browser at `http://localhost:3000/`
 
 ## 📝 License
 
